@@ -1,6 +1,5 @@
 /* Below 1700 */
-
-@media (max-width: 106em) {
+/* @media (max-width: 106em) {
   .section {
     padding: 0 10rem;
   }
@@ -9,7 +8,7 @@
     margin: 0 10rem;
     padding: 0;
   }
-}
+} */
 
 @media (max-width: 94em) {
   .hero-hook-text {
