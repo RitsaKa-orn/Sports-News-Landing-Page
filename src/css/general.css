@@ -1,0 +1,61 @@
+/* 
+
+---- 01 TYPOGRAPHY SYSTEM
+
+- Font
+Logo: Ephesis
+Heading: Sequel Sans
+Paragraph: DM Sans
+
+
+- Font sizes (px)
+10 /15 /18 /20 /23 /34 /40 /48 /51 /76 /82 /114
+
+- Spacing(px)
+2/ 4/ 8/ 12 / 16 /18 /20 /24 /30 /36/ 38/ 40 / 42 /44/ 58 
+
+- Font wights
+Default: 400
+Medium: 500
+Headline: 600
+High: 800
+Maximun: 900!!!!
+
+- Line heights
+Default: 1
+
+- Letter spacing
+Default: 0
+
+---- 02 COLORS
+- Primary: #B8C2CE
+
+-Tints: 
+#f2f2f2
+#ffffff
+
+
+-Accents:
+#262626
+#B8C2CE
+#696868
+
+-Shades:
+#E1E8F0
+#EBEEF3
+#F9FAFC(bg)
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "DM Sans";
+}
